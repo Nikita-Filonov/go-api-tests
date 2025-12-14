@@ -1,0 +1,6 @@
+{
+  "email": "wilhelmcrona@stokes.com",
+  "username": "Kemmer5283",
+  "lastName": "Reichert",
+  "firstName": "Audrey"
+}

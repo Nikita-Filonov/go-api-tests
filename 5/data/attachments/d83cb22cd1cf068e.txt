@@ -1,0 +1,7 @@
+{
+  "title": "Fast-Charging Fridge Sleek",
+  "price": 591.94,
+  "stock": 38,
+  "category": "electronics",
+  "description": "Bunch this do below these work over seldom."
+}
