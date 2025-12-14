@@ -62,13 +62,6 @@ artefacts/
 artifacts/
 
 # ==================================================
-# Local config overrides
-# ==================================================
-config.yaml
-config.local.yaml
-config.*.yaml
-
-# ==================================================
 # Vendor (if not using vendoring)
 # ==================================================
 vendor/

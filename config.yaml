@@ -1,0 +1,3 @@
+http:
+  url: https://dummyjson.com
+  timeout: 10s
