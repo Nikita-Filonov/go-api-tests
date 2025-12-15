@@ -1,0 +1,6 @@
+{
+  "email": "connorbauch@rempel.net",
+  "username": "Schmidt4391",
+  "lastName": "Flatley",
+  "firstName": "Miguel"
+}
