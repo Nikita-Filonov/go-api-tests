@@ -1,0 +1,6 @@
+{
+  "email": "okeyhodkiewicz@bosco.io",
+  "username": "Kutch9359",
+  "lastName": "Balistreri",
+  "firstName": "Zechariah"
+}

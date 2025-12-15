@@ -1,0 +1,7 @@
+{
+  "title": "Computer Swift Multi-Functional",
+  "price": 688.06,
+  "stock": 41,
+  "category": "electronics",
+  "description": "Him child himself these tomorrow under ours you."
+}
