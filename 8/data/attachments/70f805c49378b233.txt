@@ -1,0 +1,6 @@
+{
+  "email": "maybellnolan@lehner.info",
+  "username": "Schmeler5773",
+  "lastName": "Stoltenberg",
+  "firstName": "Royce"
+}

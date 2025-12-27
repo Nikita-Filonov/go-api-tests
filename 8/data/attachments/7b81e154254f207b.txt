@@ -1,0 +1,7 @@
+{
+  "title": "Scale Swift Noise-Canceling",
+  "price": 741.71,
+  "stock": 36,
+  "category": "electronics",
+  "description": "Wander tonight climb elsewhere open as who spread."
+}
